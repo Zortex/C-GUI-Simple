@@ -1,0 +1,15 @@
+Versions:
+
+0.1          - Basic program. Requires Visual Studio 2015. Includes Chicken mode, but it can't be toggled.
+
+0.2          - Basic program compiled under Dev C++. Now uses goto instead of functions in order to use variables throughout the system. Also, Chicken mode is now
+a toggle feature.
+
+0.2.1        - Program now includes the cmd command, allowing you to directly control a command prompt from the C++ window. This does not work on systems
+with Command Prompt disabled.
+
+0.3          - OSI GUI framework and user login installed. Also, lots of little graphical fixes! Chicken Mode now runs properly, and has some benefits too!
+
+0.5          - OSI GUI applications in progress.
+
+0.5 Update 1 - Major updates to the system, including (but not limited to) launchable applications, better menu interfaces, and separate application launching.
